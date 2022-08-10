@@ -1,0 +1,66 @@
+.slideshow .img {
+    background-image: url('images/ampesie.jpg');
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.slideshow .img1 {
+    background-image: url('images/fufu.jpg');
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.slideshow .img2 {
+    background-image: url('images/tuo.jpg');
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.slideshow .img3 {
+    background-image: url('images/koko.jpg');
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.slideshow .img4 {
+    background-image: url('images/fufu.jpg');
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.slideshow {
+    height:400px;
+    width:80%;
+    margin:0 auto;
+}
+
+
+.slick-prev::before {
+    color: #000;
+}
+
+.slick-next::before {
+    color: #000;
+}
+
+
+.mr { 
+    margin-right: 10px;
+    border-radius: 20px;
+}
